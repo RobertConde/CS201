@@ -1,3 +1,3 @@
 # Abstract Data Types
 
-youtube stuff
+[Youtube Link](https://www.youtube.com/embed/CYlbEVP349c)
